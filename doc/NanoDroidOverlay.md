@@ -35,7 +35,7 @@ You can pseudo-debloat applications by adding them to the `.nanodroid-overlay` c
 * `/data/media/0` (internal storage (TWRP))
 * `/sdcard1` (internal storage (ORANGEFOX))
 * `/external_sd` (TWRP path to SD Card (if any))
-* `/data` (fallabck)
+* `/data` (fallback)
 * `/system/addon.d/` (fallback if TWRP can't mount `/data`)
 * `/tmp` (fallback if TWRP can't mount `/data`)
 
